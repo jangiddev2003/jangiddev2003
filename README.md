@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋 I'm Dev Jangid<br><br>🚀 Crafting interactive web experiences with React, animations, and creative UI design ✨<br>Frontend Developer | React Enthusiast | Creative UI Designer | Building smooth & futuristic web experiences <br> <br>🌱 Currently Learning:<br>- Advanced React.js<br>- Python<br>- Better UI animations & smooth interactions<br><<br>One of my favorite creative projects is **Diagonally**, where I experiment with modern layouts, 3D effects, and dynamic UI concepts.<br><br>⚡ Fun Fact:<br>I love turning simple ideas into visually engaging digital experiences.
+# Hi there 👋 I'm Dev Jangid<br><br>🚀 Crafting interactive web experiences with React, animations, and creative UI design ✨<br>Frontend Developer | React Enthusiast | Creative UI Designer | Building smooth & futuristic web experiences <br> <br>🌱 Currently Learning:<br>- Advanced React.js<br>- Python<br>- Better UI animations & smooth interactions<br><br>One of my favorite creative projects is **Diagonally**, where I experiment with modern layouts, 3D effects, and dynamic UI concepts.<br><br>⚡ Fun Fact:<br>I love turning simple ideas into visually engaging digital experiences.
 
 
 # 💻 Tech Stack:
